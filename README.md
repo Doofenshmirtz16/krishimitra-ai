@@ -187,6 +187,8 @@ http://localhost:3000
 
 ## 🤖 Machine Learning Model
 
+We used the following dataset for our project: https://www.kaggle.com/datasets/emmarex/plantdisease
+
 The disease detection system uses:
 
 **Transfer Learning with MobileNetV2**
@@ -301,3 +303,4 @@ This project was developed as part of a **Microsoft Hackathon prototype** focusi
 ## 📜 License
 
 MIT License
+
